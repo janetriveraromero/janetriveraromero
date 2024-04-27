@@ -1,6 +1,6 @@
 ### ❤️ I love ...Hola mi nombre es Jenet Susan Rivera Romero y estoy aprendiendo a trabajar  en markdownlivepreview y es divertido y practico muy interesante y  ahora creare mi perfil espero que les guste. 
 
-<p style="text-align:center">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/132324047?v=4" style="width:250px; border-radius:50%">
 </p>
 
