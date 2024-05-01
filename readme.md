@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/132324047?v=4" style="width:250px; border-radius:50%">
 </p>
 
-* ❤️ I love ... quiero aprender a programar usando los lenguajes de pregromacion de Java, Phyton, c++, Js y desaroyarme como  programadora es mi  anelo alcanzar  mis retos  al maximo...
+* ❤️ I love ... quiero aprender  yo janet Rivera  programar usando los lenguajes de pregromacion de Java, Phyton, c++, Js y desaroyarme como  programadora es mi  anelo alcanzar  mis retos  al maximo...
 
 
 
